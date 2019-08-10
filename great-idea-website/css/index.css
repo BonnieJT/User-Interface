@@ -64,3 +64,172 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+.container {
+	margin: 0 auto;
+	width: 720px;
+}
+
+.header {
+
+}
+
+.header-nav {
+	margin: 15px 0;
+	text-align: center;	
+	
+}
+
+.header-nav-item {
+	color: gray;
+	font-size: 12px;
+	padding: 0 15px;
+	text-decoration: none;
+}
+
+.header-nav-logo {
+	margin-left: 60px;
+	padding: 0;	
+}
+
+.header-hero {
+	display: flex;
+	height: 360px;
+	position: relative;
+	padding: 30px 0;
+}
+
+.header-hero-tag {
+	position: relative;
+	font-size: 60px;
+	display: inline-block;
+	width: 45%;
+	top: 15%;
+	text-align: center;
+	display: table;
+	vertical-align: middle;
+	padding-right: 30px;
+}
+
+.header-hero-tag-btn {
+	width: 140px;
+}
+
+.header-hero-img {
+	display: inline-block;
+	width: 45%;
+	padding: 5px 0 5px 40px;
+}
+
+.main {
+	border-top: 1px solid gray;
+}
+
+.main-top {
+	margin: 30px 0;	
+}
+
+.main-top-features {
+	display: inline-block;
+	width: 49%;
+	margin-right: 10px;
+	font-size: 14px;
+}
+
+.main-top-features-title {
+	font-size: 16px;	
+}
+
+.main-top-features-para {
+
+}
+
+.main-top-about {
+	display: inline-block;
+	width: 49%;
+}
+
+.main-top-about-title {
+	
+}
+
+.main-top-about-para {
+	font-size: 14px;
+}
+
+.body-hero {
+	margin-bottom: 30px;
+
+}
+
+.body-hero-img {
+	display: inline-block;
+	width: 100%;
+}
+
+.main-bottom {
+	margin-bottom: 30px;
+}
+
+.main-bottom-services {
+	display: inline-block;
+	width: 32%;
+}
+
+.main-bottom-services-title {
+	
+}
+
+.main-bottom-services-para {
+	font-size: 14px;
+}
+
+.main-bottom-product {
+	display: inline-block;
+	width: 32%;
+	margin: 0 10px;
+}
+
+.main-bottom-product-title {
+
+}
+
+.main-bottom-product-para {
+	font-size: 14px;
+}
+
+.main-bottom-vision {
+	display: inline-block;
+	width: 32%;
+}
+
+.main-bottom-vision-title {
+
+}
+
+.main-bottom-vision-para {
+	font-size: 14px;
+}
+
+.contact {
+	margin-bottom: 30px;
+	font-size: 14px;
+}
+
+.contact-title {
+	font-size: 16px;
+}
+
+.contact-address {
+
+}
+
+.footer {
+	margin: 0 auto;
+	width: 720px;
+}
+
+.footer-copyright {
+	text-align: center;
+	font-size: 14px;
+
+}

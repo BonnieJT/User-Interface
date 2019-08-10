@@ -1,0 +1,34 @@
+container
+    header 
+        header-nav
+            header-nav-item
+            header-nav-logo
+        header-tag
+        header-btn
+        header-hero
+    main
+        main-top
+            main-top-features
+                main-top-features-title
+                main-top-features-para
+            main-top-about
+                main-top-about-title
+                main-top-about-para
+        body-hero
+            body-hero-img
+        main-bottom
+            main-bottom-services
+                main-bottom-services-title
+                main-bottom-services-para
+             main-bottom-product
+                main-bottom-product-title
+                main-bottom-product-para
+             main-bottom-vision
+                main-bottom-vision-title
+                main-bottom-vision-para
+    contact
+        contact-title
+        contact-address
+footer
+    footer-copyright
+    
