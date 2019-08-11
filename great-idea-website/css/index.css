@@ -71,25 +71,31 @@ h1, h2, h3, h4, h5 {
 
 .header {
 	position: relative;
+	display: inline-block;
 }
 
 .header-nav {
-	margin: 15px 0;
+	margin-top: 15px;
 	text-align: center;
 }
 
 .header-nav-item {
 	color: gray;
 	font-size: 12px;
-	padding: 0 48px 0 0;
+	padding: 0 47px 0 0;
 	text-decoration: none;
 }
 
 .header-nav-logo {
-	padding: 0;	
+	padding: 0;
+	text-align: right;
 }
 
-.header-hero {
+.hero {
+	
+}
+
+.hero-header {
 	display: inline-box;
 	height: 360px;
 	width: 100%;
@@ -97,7 +103,7 @@ h1, h2, h3, h4, h5 {
 	padding: 30px 0;
 }
 
-.header-hero-tag {
+.hero-header-tag {
 	position: relative;
 	font-size: 60px;
 	display: inline-block;
@@ -109,11 +115,11 @@ h1, h2, h3, h4, h5 {
 	vertical-align: top;
 }
 
-.header-hero-tag-btn {
+.hero-header-tag-btn {
 	width: 140px;
 }
 
-.header-hero-img {
+.hero-header-img {
 	display: inline-block;
 	width:44%;
 	padding-left: 30px;
@@ -139,17 +145,9 @@ h1, h2, h3, h4, h5 {
 	font-size: 16px;	
 }
 
-.main-top-features-para {
-
-}
-
 .main-top-about {
 	display: inline-block;
 	width: 49%;
-}
-
-.main-top-about-title {
-	
 }
 
 .main-top-about-para {
@@ -174,10 +172,6 @@ h1, h2, h3, h4, h5 {
 	width: 32%;
 }
 
-.main-bottom-services-title {
-	
-}
-
 .main-bottom-services-para {
 	font-size: 14px;
 }
@@ -188,10 +182,6 @@ h1, h2, h3, h4, h5 {
 	margin: 0 10px;
 }
 
-.main-bottom-product-title {
-
-}
-
 .main-bottom-product-para {
 	font-size: 14px;
 }
@@ -199,10 +189,6 @@ h1, h2, h3, h4, h5 {
 .main-bottom-vision {
 	display: inline-block;
 	width: 32%;
-}
-
-.main-bottom-vision-title {
-
 }
 
 .main-bottom-vision-para {
@@ -216,10 +202,6 @@ h1, h2, h3, h4, h5 {
 
 .contact-title {
 	font-size: 16px;
-}
-
-.contact-address {
-
 }
 
 .footer {

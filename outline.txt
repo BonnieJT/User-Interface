@@ -3,9 +3,11 @@ container
         header-nav
             header-nav-item
             header-nav-logo
-        header-tag
-        header-btn
-        header-hero
+    hero
+        hero-header
+            hero-header-tag
+            hero-header-btn
+            hero-header-img
     main
         main-top
             main-top-features
